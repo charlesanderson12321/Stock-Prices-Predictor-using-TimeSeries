@@ -1,2 +1,2 @@
 # Stock-Prices-Predictor-using-TimeSeries
-A support vector machine algorithm that uses multiple kernels and inputs to predict financial security based on historical data.
+A support vector machine algorithm that uses multiple kernels and inputs to predict financial security based on Time-series. Time-series forecasting models are the models that are capable to predict future values based on previously observed values. These non-stationary input data (used as input to these models) are usually called time-series. Some examples of time-series include the temperature values over time, stock price over time, price of a house over time etc. So, the input is a signal (time-series) that is defined by observations taken sequentially in time.
